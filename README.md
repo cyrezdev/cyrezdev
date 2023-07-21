@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working on Breezy CSS, a <code>C</code>lassless <code>S</code>emantic <code>S</code>tylesheet that is a breeze to use. 🍿
+I’m currently working on Breezy CSS, a <code>C</code>lassless <code>S</code>emantic <code>S</code>tylesheet that is a breeze to use. 🍿🍿🍿
 
 The repo is currently private and will be turned to public soon (expected by the end of August).
 
