@@ -2,12 +2,12 @@
 
 I’m currently working on Breezy CSS, a <code>C</code>lassless <code>S</code>emantic <code>S</code>tylesheet that is a breeze to use.
 
-The repo is currently private and will be turn to public soon (expected by the end of August).
+The repo is currently private and will be turned to public soon (expected by the end of August).
 
 Stay tuned!
 
 Cyril,
-breezycss.com
+https://breezycss.com
 <!--
 **cyrezdev/cyrezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
