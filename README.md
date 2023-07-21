@@ -6,8 +6,7 @@ The repo is currently private and will be turned to public soon (expected by the
 
 Stay tuned!
 
-Cyril,
-https://breezycss.com
+Cyril - https://breezycss.com
 <!--
 **cyrezdev/cyrezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
