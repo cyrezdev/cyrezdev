@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Cyril
+
+I’m currently working on Breezy CSS, a <code>C</code>lassless Semantic Stylesheet that is a breeze to use. 
 <!--
 **cyrezdev/cyrezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
