@@ -1,10 +1,17 @@
 ### Hi there 👋
 
+## <i>WARNING:<br>
+This README.md was created rapidly with a low inspiration of the moment.<br>
+Trust me, i will do a better one when back from vacation! </i>
+
+## What's upcoming?
 I’m currently working on Breezy CSS, a <code>C</code>lassless <code>S</code>emantic <code>S</code>tylesheet that is a breeze to use. 🍿🍿🍿
 
 The repo is currently private and will be turned to public soon (expected by the end of August).
 
-Stay tuned!
+<hr>
+Stay tuned & all the best for now!
+
 
 Cyril<br>https://breezycss.com
 
