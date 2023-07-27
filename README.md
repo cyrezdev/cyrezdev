@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## Warning:<br>
-<i>This README.md was created rapidly with a low inspiration of the moment.<br>
-Trust me, i will do a better one when back from vacation! </i>
+## WARNING<br>
+This README.md was created rapidly with a low inspiration of the moment.<br>
+Trust me, i will do a better one when back from Summer vacation!
 
 ## What's upcoming?
 I’m currently working on Breezy CSS, a <code>C</code>lassless <code>S</code>emantic <code>S</code>tylesheet that is a breeze to use. 🍿🍿🍿
@@ -10,10 +10,10 @@ I’m currently working on Breezy CSS, a <code>C</code>lassless <code>S</code>em
 The repo is currently private and will be turned to public soon (expected by the end of August).
 
 <hr>
-Stay tuned & all the best for now!
+<em>Stay tuned & all the best for now!
 
 
-Cyril<br>https://breezycss.com
+Cyril</em><br>https://breezycss.com
 
 ![breezycss](https://github.com/cyrezdev/cyrezdev/assets/2385058/92c63274-d836-4e85-8a89-488d1b82534f)
 
