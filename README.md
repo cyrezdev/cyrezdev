@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## <i>WARNING:<br>
-This README.md was created rapidly with a low inspiration of the moment.<br>
+## Warning:<br>
+<i>This README.md was created rapidly with a low inspiration of the moment.<br>
 Trust me, i will do a better one when back from vacation! </i>
 
 ## What's upcoming?
