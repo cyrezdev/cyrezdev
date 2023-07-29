@@ -2,7 +2,7 @@
 
 ## WARNING<br>
 This README.md was created rapidly with a low inspiration of the moment.<br>
-Trust me, i will do a better one when back from Summer vacation!
+Trust me, i will do a better one when back from <strong>Summer vacation!</strong>
 
 ## What's upcoming?
 I’m currently working on Breezy CSS, a <code>C</code>lassless <code>S</code>emantic <code>S</code>tylesheet that is a breeze to use. 🍿🍿🍿
