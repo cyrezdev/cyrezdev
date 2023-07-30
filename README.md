@@ -9,9 +9,7 @@ I’m currently working on Breezy CSS, a <code>C</code>lassless <code>S</code>em
 
 The repo is currently private and will be turned to public soon (expected by the end of August).
 
-<hr>
 <em>Stay tuned & all the best for now!
-
 
 Cyril</em><br>https://breezycss.com
 
