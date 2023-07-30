@@ -15,8 +15,6 @@ The repo is currently private and will be turned to public soon (expected by the
 
 Cyril</em><br>https://breezycss.com
 
-![breezycss](https://github.com/cyrezdev/cyrezdev/assets/2385058/92c63274-d836-4e85-8a89-488d1b82534f)
-
 <!--
 **cyrezdev/cyrezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
