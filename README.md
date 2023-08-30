@@ -7,7 +7,7 @@ Trust me, i will do a better one when back from <strong>Summer vacation!</strong
 ## What's upcoming?
 I’m currently working on Breezy CSS, a <code>C</code>lassless <code>S</code>emantic <code>S</code>tylesheet that is a breeze to use. 🍿🍿🍿
 
-The repo is currently private and will be turned to public soon (expected by the end of August).
+The repo is currently private and will be turned to public soon (expected by the end of September 2023).
 
 <em>Stay tuned & all the best for now!
 
