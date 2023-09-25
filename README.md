@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-## WARNING
 This README.md was created rapidly with a low inspiration of the moment.<br>
 I will do a better one day...
 
