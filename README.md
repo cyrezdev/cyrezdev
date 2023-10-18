@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-This README.md was created rapidly with a low inspiration of the moment.<br>
-I will do a better one day...
-
-### What's upcoming?
-I’m currently working on Breezy CSS, a <code>C</code>lassless <code>S</code>emantic <code>S</code>tylesheet that is a breeze to use. 🍿🍿🍿
-
-The repo is currently private and will be turned to public soon (expected by the end of September 2023).
+I’m currently working on Breezy CSS, a Classless Semantic Stylesheet to accelerate website development with rapid design and built-in accessibility.
 
 <em>Stay tuned & all the best for now!
 
